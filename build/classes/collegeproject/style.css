@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Nov 17, 2017, 7:06:25 PM
+    Author     : a
+*/
+#id1{
+     -fx-background-image: url("x/id1.jpg");
+    -fx-background-size: 1366 933;
+}
+#lion{
+    -fx-background-image: url("x/lion.jpg");
+    -fx-background-size: 1000   933;
+}
+#student{
+    /*-fx-background-image: url("x/std.png");*/
+/*    -fx-background-size: 88 88;*/
+    -fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color: greenyellow;
+    /*-fx-border-radius:33;*/
+    -fx-border-color:  green;
+    -fx-border-width: 5px;
+    
+}
+#course{
+    --fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color: aquamarine;
+    -fx-border-color:  green;
+    -fx-border-width: 5px;
+
+}
+#dept{
+    -fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color: blue;
+   -fx-border-color:  green;
+    -fx-border-width: 5px;
+
+}
+#doc{
+    -fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color: violet ;
+    -fx-border-color:  green;
+    -fx-border-width: 5px;
+
+}
+#grade{
+    -fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color:tomato;
+    -fx-border-color:  green;
+    -fx-border-width: 5px;
+
+}
+#log{
+    -fx-background-position: center center  ;
+    -fx-background-repeat:no-repeat;
+    -fx-background-color:darkorange;
+    -fx-border-radius:33;
+}
+#back{
+    -fx-background-image: url("x/back.jpg");
+    -fx-background-size: 1920  1200;
+    -fx-background-position: center center;
+}
+#pane{
+    -fx-background-image: url("x/id1.jpg");
+    -fx-background-size: 1366 933;
+    -fx-background-position: center center;
+}
+#id{
+    -fx-background-color: aquamarine;
+     -fx-background-size: 88 44;
+    -fx-background-position: center;
+    -fx-border-radius: 55;
+}
+#circle{
+     -fx-background-image: url("x/3.png");
+    -fx-background-size: 88 88;
+    
+}
